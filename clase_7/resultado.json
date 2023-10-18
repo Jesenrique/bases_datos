@@ -1,0 +1,434 @@
+[
+    {
+        "year": null,
+        "movie_count": 471
+    },
+    {
+        "year": 1903,
+        "movie_count": 1
+    },
+    {
+        "year": 1909,
+        "movie_count": 1
+    },
+    {
+        "year": 1911,
+        "movie_count": 2
+    },
+    {
+        "year": 1913,
+        "movie_count": 1
+    },
+    {
+        "year": 1914,
+        "movie_count": 3
+    },
+    {
+        "year": 1915,
+        "movie_count": 2
+    },
+    {
+        "year": 1916,
+        "movie_count": 2
+    },
+    {
+        "year": 1917,
+        "movie_count": 2
+    },
+    {
+        "year": 1918,
+        "movie_count": 1
+    },
+    {
+        "year": 1919,
+        "movie_count": 1
+    },
+    {
+        "year": 1920,
+        "movie_count": 4
+    },
+    {
+        "year": 1921,
+        "movie_count": 3
+    },
+    {
+        "year": 1922,
+        "movie_count": 2
+    },
+    {
+        "year": 1923,
+        "movie_count": 4
+    },
+    {
+        "year": 1924,
+        "movie_count": 6
+    },
+    {
+        "year": 1925,
+        "movie_count": 3
+    },
+    {
+        "year": 1926,
+        "movie_count": 6
+    },
+    {
+        "year": 1927,
+        "movie_count": 2
+    },
+    {
+        "year": 1928,
+        "movie_count": 5
+    },
+    {
+        "year": 1929,
+        "movie_count": 8
+    },
+    {
+        "year": 1930,
+        "movie_count": 14
+    },
+    {
+        "year": 1931,
+        "movie_count": 18
+    },
+    {
+        "year": 1932,
+        "movie_count": 17
+    },
+    {
+        "year": 1933,
+        "movie_count": 19
+    },
+    {
+        "year": 1934,
+        "movie_count": 19
+    },
+    {
+        "year": 1935,
+        "movie_count": 30
+    },
+    {
+        "year": 1936,
+        "movie_count": 27
+    },
+    {
+        "year": 1937,
+        "movie_count": 27
+    },
+    {
+        "year": 1938,
+        "movie_count": 42
+    },
+    {
+        "year": 1939,
+        "movie_count": 18
+    },
+    {
+        "year": 1940,
+        "movie_count": 26
+    },
+    {
+        "year": 1941,
+        "movie_count": 20
+    },
+    {
+        "year": 1942,
+        "movie_count": 25
+    },
+    {
+        "year": 1943,
+        "movie_count": 26
+    },
+    {
+        "year": 1944,
+        "movie_count": 20
+    },
+    {
+        "year": 1945,
+        "movie_count": 31
+    },
+    {
+        "year": 1946,
+        "movie_count": 28
+    },
+    {
+        "year": 1947,
+        "movie_count": 28
+    },
+    {
+        "year": 1948,
+        "movie_count": 52
+    },
+    {
+        "year": 1949,
+        "movie_count": 45
+    },
+    {
+        "year": 1950,
+        "movie_count": 61
+    },
+    {
+        "year": 1951,
+        "movie_count": 42
+    },
+    {
+        "year": 1952,
+        "movie_count": 41
+    },
+    {
+        "year": 1953,
+        "movie_count": 56
+    },
+    {
+        "year": 1954,
+        "movie_count": 50
+    },
+    {
+        "year": 1955,
+        "movie_count": 55
+    },
+    {
+        "year": 1956,
+        "movie_count": 61
+    },
+    {
+        "year": 1957,
+        "movie_count": 65
+    },
+    {
+        "year": 1958,
+        "movie_count": 60
+    },
+    {
+        "year": 1959,
+        "movie_count": 66
+    },
+    {
+        "year": 1960,
+        "movie_count": 72
+    },
+    {
+        "year": 1961,
+        "movie_count": 67
+    },
+    {
+        "year": 1962,
+        "movie_count": 75
+    },
+    {
+        "year": 1963,
+        "movie_count": 59
+    },
+    {
+        "year": 1964,
+        "movie_count": 75
+    },
+    {
+        "year": 1965,
+        "movie_count": 75
+    },
+    {
+        "year": 1966,
+        "movie_count": 84
+    },
+    {
+        "year": 1967,
+        "movie_count": 63
+    },
+    {
+        "year": 1968,
+        "movie_count": 96
+    },
+    {
+        "year": 1969,
+        "movie_count": 81
+    },
+    {
+        "year": 1970,
+        "movie_count": 121
+    },
+    {
+        "year": 1971,
+        "movie_count": 103
+    },
+    {
+        "year": 1972,
+        "movie_count": 105
+    },
+    {
+        "year": 1973,
+        "movie_count": 103
+    },
+    {
+        "year": 1974,
+        "movie_count": 97
+    },
+    {
+        "year": 1975,
+        "movie_count": 104
+    },
+    {
+        "year": 1976,
+        "movie_count": 99
+    },
+    {
+        "year": 1977,
+        "movie_count": 123
+    },
+    {
+        "year": 1978,
+        "movie_count": 124
+    },
+    {
+        "year": 1979,
+        "movie_count": 148
+    },
+    {
+        "year": 1980,
+        "movie_count": 162
+    },
+    {
+        "year": 1981,
+        "movie_count": 156
+    },
+    {
+        "year": 1982,
+        "movie_count": 180
+    },
+    {
+        "year": 1983,
+        "movie_count": 151
+    },
+    {
+        "year": 1984,
+        "movie_count": 176
+    },
+    {
+        "year": 1985,
+        "movie_count": 201
+    },
+    {
+        "year": 1986,
+        "movie_count": 203
+    },
+    {
+        "year": 1987,
+        "movie_count": 198
+    },
+    {
+        "year": 1988,
+        "movie_count": 233
+    },
+    {
+        "year": 1989,
+        "movie_count": 221
+    },
+    {
+        "year": 1990,
+        "movie_count": 217
+    },
+    {
+        "year": 1991,
+        "movie_count": 245
+    },
+    {
+        "year": 1992,
+        "movie_count": 234
+    },
+    {
+        "year": 1993,
+        "movie_count": 263
+    },
+    {
+        "year": 1994,
+        "movie_count": 262
+    },
+    {
+        "year": 1995,
+        "movie_count": 334
+    },
+    {
+        "year": 1996,
+        "movie_count": 385
+    },
+    {
+        "year": 1997,
+        "movie_count": 437
+    },
+    {
+        "year": 1998,
+        "movie_count": 494
+    },
+    {
+        "year": 1999,
+        "movie_count": 508
+    },
+    {
+        "year": 2000,
+        "movie_count": 555
+    },
+    {
+        "year": 2001,
+        "movie_count": 588
+    },
+    {
+        "year": 2002,
+        "movie_count": 625
+    },
+    {
+        "year": 2003,
+        "movie_count": 615
+    },
+    {
+        "year": 2004,
+        "movie_count": 645
+    },
+    {
+        "year": 2005,
+        "movie_count": 689
+    },
+    {
+        "year": 2006,
+        "movie_count": 736
+    },
+    {
+        "year": 2007,
+        "movie_count": 800
+    },
+    {
+        "year": 2008,
+        "movie_count": 871
+    },
+    {
+        "year": 2009,
+        "movie_count": 857
+    },
+    {
+        "year": 2010,
+        "movie_count": 868
+    },
+    {
+        "year": 2011,
+        "movie_count": 909
+    },
+    {
+        "year": 2012,
+        "movie_count": 903
+    },
+    {
+        "year": 2013,
+        "movie_count": 1063
+    },
+    {
+        "year": 2014,
+        "movie_count": 1089
+    },
+    {
+        "year": 2015,
+        "movie_count": 773
+    },
+    {
+        "year": 2016,
+        "movie_count": 10
+    }
+]

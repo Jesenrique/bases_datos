@@ -1,0 +1,87 @@
+### me permite Agrupar todos los documentos para luego realizar una sumatoria
+
+  {
+    "$group": {
+      "_id": None,  # Agrupar todo en un único grupo
+      "Total": { "$sum": "$Total" }  # Sumar los valores de "Total"
+    }
+  }
+
+####
+pipeline = [
+{
+  "$addFields": {
+    "year": {
+      "$substr": ["$year", 0, 4]
+    }
+  }
+},
+{
+  "$group": {
+    "_id": "$year",
+    "count": { "$sum": 1 }
+  }
+},
+{
+  "$sort": { "_id": 1 }
+}
+
+]
+
+###
+pipeline = [
+{
+    "$project":{"nombre":"$title",
+                "rating":"$imdb.rating"}
+},
+{
+    "$match":{"rating": {"$type":"number"}}
+},
+{
+    "$sort":{"rating":-1}
+},
+{
+    "$limit":5
+}
+]
+
+#################
+
+// Select the database to use.
+use('sample_mflix');
+
+db.getCollection('movies').aggregate([
+  // Find all of the sales that occurred in 2014.
+  {$match: {
+    directors:{$exists:true},
+    runtime:{$type:"number"}
+  }},
+  {
+    $unwind: "$directors"
+  },
+  {
+    $group: {
+      _id: "$directors",
+      "duration":{$avg:"$runtime"}
+      
+    }
+  }
+]);
+
+
+#########
+pipeline = [
+{
+    "$match":{"directors":{"$exists":True},
+              "runtime":{"$type":"number"}}
+},
+{
+    "$unwind": "$directors"
+},
+{
+    "$group":{
+       "_id":"$directors",
+       "duration":{"$avg":"runtime"} 
+    }
+}
+]
